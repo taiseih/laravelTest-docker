@@ -1,2 +1,4 @@
 # test
 こちらはDocker勉強用にLaravelの環境構築をコミットしたものです。
+udemyを参考にDockerfileとdocker-compose.yml,vhosts.cnfを作成しました
+使用DBはmariadb
